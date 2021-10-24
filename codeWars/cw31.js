@@ -35,3 +35,4 @@ function getPINs(observed) {
               getCombos(digits, idx + 1, curCombo + candidate)
           }
       }
+}

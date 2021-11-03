@@ -8,3 +8,4 @@ class SmallestIntegerFinder {
         return minFromArray;
     }
 }
+

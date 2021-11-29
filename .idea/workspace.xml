@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DOWNLOADgit" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -53,11 +53,23 @@
       <workItem from="1637145335716" duration="2335000" />
       <workItem from="1637305600901" duration="2938000" />
       <workItem from="1637756656952" duration="243000" />
-      <workItem from="1637999701483" duration="1277000" />
+      <workItem from="1637999701483" duration="2669000" />
     </task>
+    <task id="LOCAL-00001" summary="reverseNumber">
+      <created>1638002601302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638002601302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="reverseNumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="reverseNumber" />
   </component>
 </project>

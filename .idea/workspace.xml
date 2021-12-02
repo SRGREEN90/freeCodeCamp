@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6edf4a57-0f32-4429-956f-ec9bec072548" name="Changes" comment="reverseNumber">
-      <change afterPath="$PROJECT_DIR$/freeCodeCamp/78.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/freeCodeCamp/79.js" beforeDir="false" afterPath="$PROJECT_DIR$/freeCodeCamp/79.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +30,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SOCIAL NETWORK TS/my-app" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -54,7 +54,7 @@
       <workItem from="1637305600901" duration="2938000" />
       <workItem from="1637756656952" duration="243000" />
       <workItem from="1637999701483" duration="2669000" />
-      <workItem from="1638164063038" duration="1165000" />
+      <workItem from="1638164063038" duration="1533000" />
     </task>
     <task id="LOCAL-00001" summary="reverseNumber">
       <created>1638002601302</created>

@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edf4a57-0f32-4429-956f-ec9bec072548" name="Changes" comment="dutyFree">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6edf4a57-0f32-4429-956f-ec9bec072548" name="Changes" comment="Well of Ideas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Counter/my-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -66,6 +64,7 @@
       <workItem from="1640535497166" duration="901000" />
       <workItem from="1641416911938" duration="1648000" />
       <workItem from="1641464996547" duration="1010000" />
+      <workItem from="1641676242107" duration="202000" />
     </task>
     <task id="LOCAL-00001" summary="reverseNumber">
       <created>1638002601302</created>
@@ -88,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641420731792</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Well of Ideas">
+      <created>1641676302722</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1641676302723</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +115,7 @@
     <MESSAGE value="reverseNumber" />
     <MESSAGE value="pairZeros" />
     <MESSAGE value="dutyFree" />
-    <option name="LAST_COMMIT_MESSAGE" value="dutyFree" />
+    <MESSAGE value="Well of Ideas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Well of Ideas" />
   </component>
 </project>

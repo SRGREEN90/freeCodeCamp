@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edf4a57-0f32-4429-956f-ec9bec072548" name="Changes" comment="Well of Ideas" />
+    <list default="true" id="6edf4a57-0f32-4429-956f-ec9bec072548" name="Changes" comment="Pillars" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,9 +33,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/codeWars" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\REACT\New commit\newComm\codeWars" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,6 +70,7 @@
       <workItem from="1641416911938" duration="1648000" />
       <workItem from="1641464996547" duration="1010000" />
       <workItem from="1641676242107" duration="202000" />
+      <workItem from="1643308671128" duration="671000" />
     </task>
     <task id="LOCAL-00001" summary="reverseNumber">
       <created>1638002601302</created>
@@ -94,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641676302723</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Pillars">
+      <created>1643308742504</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643308742504</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +129,7 @@
     <MESSAGE value="pairZeros" />
     <MESSAGE value="dutyFree" />
     <MESSAGE value="Well of Ideas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Well of Ideas" />
+    <MESSAGE value="Pillars" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pillars" />
   </component>
 </project>

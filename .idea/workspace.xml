@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edf4a57-0f32-4429-956f-ec9bec072548" name="Changes" comment="Pillars" />
+    <list default="true" id="6edf4a57-0f32-4429-956f-ec9bec072548" name="Changes" comment="iceBrickVolume">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeWars/cw65.js" beforeDir="false" afterPath="$PROJECT_DIR$/codeWars/cw65.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +74,9 @@
       <workItem from="1641464996547" duration="1010000" />
       <workItem from="1641676242107" duration="202000" />
       <workItem from="1643308671128" duration="671000" />
+      <workItem from="1643395324483" duration="613000" />
+      <workItem from="1646050679422" duration="18000" />
+      <workItem from="1658605129447" duration="895000" />
     </task>
     <task id="LOCAL-00001" summary="reverseNumber">
       <created>1638002601302</created>
@@ -107,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643308742504</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="iceBrickVolume">
+      <created>1643395371814</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643395371814</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +143,7 @@
     <MESSAGE value="dutyFree" />
     <MESSAGE value="Well of Ideas" />
     <MESSAGE value="Pillars" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pillars" />
+    <MESSAGE value="iceBrickVolume" />
+    <option name="LAST_COMMIT_MESSAGE" value="iceBrickVolume" />
   </component>
 </project>

@@ -1,7 +1,20 @@
-function iceBrickVolume(radius, bottleLength, rimLength) {
-    let diaganal = radius * 2
-    let sideSquare = diaganal / Math.sqrt(2)
-    let brickLength = bottleLength - rimLength
-    let result = sideSquare * sideSquare * brickLength
-    return Math.ceil(result)
+const humanYearsCatYearsDogYears = function (humanYears) {
+    let catYears = 0
+    if (humanYears === 1) {
+        catYears = 15
+    } else if (humanYears === 2) {
+        catYears = 15 + 9
+    } else if (humanYears > 2) {
+        catYears = 15 + 9 + (4 * (humanYears - 2))
+    }
+    let dogYears = 0
+    if (humanYears === 1) {
+        dogYears = 15
+    } else if (humanYears === 2) {
+        dogYears = 15 + 9
+    } else if (humanYears > 2) {
+        dogYears = 15 + 9 + (5 * (humanYears - 2))
+    }
+    return [humanYears, catYears, dogYears]
 }
+
